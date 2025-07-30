@@ -30,8 +30,8 @@ const DB_DSN        = 'mysql:host=127.0.0.1;dbname=database;charset=utf8mb4';
 const DB_USER       = 'username';
 const DB_PASS       = 'password';
 
-const PS_SHOP_URL   = 'https://sklep.agroradek.pl';
-const PS_API_KEY    = 'TWRURS8TCH75JESLZYHFU4BJTPL4PTVN';
+const PS_SHOP_URL   = 'https://adressklepu.com';
+const PS_API_KEY    = 'TUTAJAPI';
 
 const LOG_FILE      = __DIR__ . '/sync_price_sql.log';
 const PAGE_SIZE     = 1000;
